@@ -7,8 +7,8 @@ public class FizzBuzzMain {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("This is solution to FizzBuzz problem, Euler1");
-
+		System.out.println("This is solution to FizzBuzz problem, Euler");
+		
 	}
 
 }
